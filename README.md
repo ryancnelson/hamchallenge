@@ -4,7 +4,7 @@ This repository is the bones of a new (circa april 2024) website by Ryan Nelson 
 
 * a fun challenge several times a week to set an achievable goal for amateur radio practitioners to accomplish.  These challenge tasks should introduce participants to new 
     * people
-    * radio frequency bands*
+    * radio frequency bands
     * digital modes
     * practices
     * hardware
