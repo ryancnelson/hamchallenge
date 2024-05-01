@@ -19,7 +19,8 @@ This repository is the bones of a new (circa april 2024) website by Ryan Nelson 
 * find other people/stations/resources to communicate with. Let's brainstorm the possibilities.
     * There's people to chat with, but, 
     * there's also radio-mail stations on other continents you can try to connect to, available 24/7.
-    * Send yourself a tweet over APRS.  
+    * Send yourself a tweet over APRS.
+    * Map out what WSPR beacons you can hear on the various bands during daylight vs. night
     * Find a stranger on the message boards and arrange to transfer SSTV pictures over EchoLink, no radios needed.  
 
 
