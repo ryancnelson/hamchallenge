@@ -1,6 +1,6 @@
 # hamchallenge
 
-This repository is the bones of a new (circa april 2024) website by Ryan Nelson (K2RNA, Seattle, WA), that's intended to be:
+This repository [(and its wiki)](https://github.com/ryancnelson/hamchallenge/wiki) is the bones of a new (circa april 2024) website by Ryan Nelson (K2RNA, Seattle, WA), that's intended to be:
 
 * a fun challenge several times a week to set an achievable goal for amateur radio practitioners to accomplish.  These challenge tasks should introduce participants to new 
     * people
