@@ -24,7 +24,7 @@ This repository is the bones of a new (circa april 2024) website by Ryan Nelson 
     * Find a stranger on the message boards and arrange to transfer SSTV pictures over EchoLink, no radios needed.  
 
 
-Here's ChatGPT's first swing at some ideas:
+**Here's ChatGPT's first swing at some ideas:**
 
 ```suggest a list of ten interesting, educational tasks that a ham radio user could perform that would progress their experience in using amateur radio digital modes.```
 
