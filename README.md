@@ -22,6 +22,7 @@ This repository is the bones of a new (circa april 2024) website by Ryan Nelson 
     * Send yourself a tweet over APRS.
     * Map out what WSPR beacons you can hear on the various bands during daylight vs. night
     * Find a stranger on the message boards and arrange to transfer SSTV pictures over EchoLink, no radios needed.  
+* SOMETHING TO TALK ABOUT ON DAILY HAM NETS
 
 
 **Here's ChatGPT's first swing at some ideas:**
